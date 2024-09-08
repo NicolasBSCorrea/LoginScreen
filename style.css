@@ -21,7 +21,7 @@ body{
     background: transparent;
     color: white;
     border-radius: 10px;
-    border: 2px solid rgba(255, 255, 255, 0.3);
+    border: 2px solid rgba(255, 255, 255, 0.2);
     padding: 30px 40px;
     
 }
@@ -51,7 +51,7 @@ body{
     padding: 20px 45px 20px 20px; /*top right bottom e left*/
     
 }
-.input-box input ::placeholder{
+.input-box input::placeholder{
     color: #fff;
 }
 .input-box i{
